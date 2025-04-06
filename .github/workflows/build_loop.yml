@@ -284,6 +284,7 @@ jobs:
           2hlollipop \
           profiles \
           live_activity \
+          basal_lock \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
